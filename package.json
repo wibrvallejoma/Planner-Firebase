@@ -24,7 +24,7 @@
     "@nuxtjs/pwa": "^3.3.5",
     "core-js": "^3.19.1",
     "firebase": "^9.2.0",
-    "nuxt": "^2.15.7",
+    "nuxt": "^2.15.8",
     "vuetify": "^2.5.5"
   },
   "devDependencies": {
@@ -43,9 +43,9 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-nuxt": "^2.0.0",
     "eslint-plugin-vue": "^7.12.1",
-    "husky": "^6.0.0",
+    "husky": "^7.0.4",
     "jest": "^27.0.5",
-    "lint-staged": "^10.5.4",
+    "lint-staged": "^11.2.6",
     "prettier": "^2.3.2",
     "stylelint": "^13.13.1",
     "stylelint-config-prettier": "^8.0.2",
